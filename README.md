@@ -5,7 +5,7 @@ Download your unfiltered call log (Reporting>Call Log>Export), put it in the sam
 
 It will take **a while**
 
-Output csv file should give you every second during the 90 days and how many simultaneous calls there were during that second (if there were more than 3 calls because otherwise the file would be biiiig).
+Output csv file should give you every second during the 90 days and how many simultaneous calls there were during that second (if there were more than 3 calls because otherwise the file would be biiiig. Change the number on line 35 if you want to change that.)
 
 Is it slow and inefficient? You betcha!
 
