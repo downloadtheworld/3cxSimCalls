@@ -9,4 +9,4 @@ Output csv file should give you every second during the 90 days and how many sim
 
 Is it slow and inefficient? You betcha!
 
-Is it accurate? I hope so because I've just used it to halve our licence, which means I'm paying less than before ~~the greedy sods incresed it~~ inflation forced them to reluctantly raise their prices.
+Is it accurate? I hope so because I've just used it to halve our licence, which means I'm paying less than before ~~the greedy sods increased it~~ inflation forced them to reluctantly raise their prices.
