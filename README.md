@@ -3,7 +3,7 @@
 
 Download your unfiltered call log (Reporting>Call Log>Export), put it in the same folder as the script and run the script
 
-It will take ~a while~
+It will take **a while**
 
 Output csv file should give you every second during the 90 days and how many simultaneous calls there were during that second (if there were more than 3 calls because otherwise the file would be biiiig).
 
